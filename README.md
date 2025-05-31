@@ -15,7 +15,7 @@ CodeBomb is a project by our club to create a lightweight, user-friendly timer f
 - Chrome Extension: A browser extension to display the timer as a persistent overlay, visible at all times during coding/browsing/playing/researching/etc.
 
 ## Release
-- Version `0.1` **Spark**: Scheduled for June 1, 2025. This intial release will include:
+- Version `0.1` **Spark**: Scheduled for June 10, 2025 (Delayed due to college commitments). This intial release will include:
   -  Core countdown timer functionality with basic customization options.
   -  Customizable Settings: Adjust time, colors, and notifications/Explosion system.
   -  Cross Platform Support: For now planning to run only on Windows and Ubuntu.
